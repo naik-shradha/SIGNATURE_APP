@@ -4,8 +4,9 @@ A simple Signature App built with HTML, CSS, and JavaScript. This app allows use
 
 ## Features
 
-- **Draw Signature:** Users can draw their signature on a canvas using their mouse or touch.
+- **Draw Signature:** Users can draw their signature on a canvas using their mouse.
 - **Clear Canvas:** A button to clear the canvas if the user wants to redraw their signature.
 - **Save Signature:** Option to save the signature as an image file.
+- **Retrieve Signature:** Option to retrieve recently saved signature.
 
 
